@@ -1,2 +1,3 @@
 sistema de login
 entrar com usuario e senha
+verificar se usuario existe ou não
